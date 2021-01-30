@@ -26,7 +26,7 @@ Click on the index.html file in your forked repository, then click the pencil in
 
 ## Step 5: Commit your changes
 
-Committing means to save your change as an increment in the progress of your project. Scroll to the bottom of the page and fill out the information requested. We suggest making the commit message descriptive (i.e. "Adding my name to WCS MBTI board"). Then, click the commit button. It should take you back to the main page of your repository.
+Committing means to save your change as an increment in the progress of your project. Scroll to the bottom of the page and fill out the information requested. We suggest making the commit message descriptive (i.e. "Adding my name to WCS MBTI board"). Then, click the commit button with the first option ("commit directly to the `main` branch") selected. It should take you back to the main page of your repository.
 
 ## Step 6: Make a pull request 
 
