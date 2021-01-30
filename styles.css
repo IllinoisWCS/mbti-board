@@ -1,12 +1,15 @@
 h5 {
     font-family: 'Zilla Slab', serif;
+    text-align: center;
 }
 
 p {
     font-family: 'Nunito', sans-serif;
+    text-align: center;
 }
 
 a {
     font-family: 'Nunito', sans-serif;
     color: #4aa9ad;
+    text-align: center;
 }
