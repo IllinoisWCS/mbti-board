@@ -34,7 +34,8 @@ Making a pull request (otherwise known as a PR) means that you are making a requ
 
 At the top of the main page of your repository, you should see a gray banner that tells you there are changes to your fork and that you can make a pull request. Click the pull request button and follow the instructions on the page. Don't worry about adding a description, but make sure you have a title. And you're done! You will receive email notifications when we merge your PR.
 
+## Contributing to the MBTI Board
 
+If you see any bugs or have any features you would like to request, please [file an issue via Github](https://github.com/IllinoisWCS/mbti-board/issues). Also, if you are interested in working on any of the issues on the list, please comment on the issue and we will assign it to you! 
 
-
-Instructions last updated: 1/30/2021
+Instructions last updated: 2/1/2021
