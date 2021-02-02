@@ -32,7 +32,7 @@ Committing means to save your change as an increment in the progress of your pro
 
 Making a pull request (otherwise known as a PR) means that you are making a request to us (the code owners) to add your changes to the larger project. As of right now, you changes are only on your copy of the code (your fork). After we accept your PR, it will be integrated into the WCS codebase!
 
-At the top of the main page of your repository, you should see a gray banner that tells you there are changes to your fork and that you can make a pull request. Click the pull request button and follow the instructions on the page. Don't worry about adding a description, but make sure you have a title. And you're done! You will receive email notifications when we merge your PR.
+At the top of the main page of your repository, you should see a gray banner that tells you there are changes to your fork and that you can make a pull request. Click the pull request button and follow the instructions on the page. Don't worry about adding a description, but make sure you have a title. In the top right corner, request a review from @melissachen2000 or @darciap2. And you're done! You will receive email notifications when we merge your PR.
 
 ## Contributing to the MBTI Board
 
