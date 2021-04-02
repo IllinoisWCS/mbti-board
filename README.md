@@ -22,7 +22,7 @@ Go to [our GitHub repository](https://github.com/IllinoisWCS/mbti-board) and cli
 
 ## Step 4: Add your name to the board!
 
-Click on the index.html file in your forked repository, then click the pencil in the top right corner. This should allow you to edit the file. Find the card under your category, then add your name and graduation year between the previous person's &lt;br&gt; tag and the &lt;/p&gt; tag. Then, add a &lt;br&gt; tag to the end of your line. See the other cards for examples.
+Go to the data folder and go to the js file corresponding to your MBTI personality type in your forked repository. Then, click the pencil in the top right corner. This should allow you to edit the file. Inside this file is a dictionary, formatted much like dictionaries in your favorite programming language. Add your name as a key and graduation year as a value. Feel free to add an emoji to your name too! Look at other people's entires in the files for examples.
 
 ## Step 5: Commit your changes
 
@@ -38,4 +38,4 @@ At the top of the main page of your repository, you should see a gray banner tha
 
 If you see any bugs or have any features you would like to request, please [file an issue via Github](https://github.com/IllinoisWCS/mbti-board/issues). Also, if you are interested in working on any of the issues on the list, please comment on the issue and we will assign it to you! 
 
-Instructions last updated: 2/1/2021
+Instructions last updated: 4/2/2021
