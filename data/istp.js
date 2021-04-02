@@ -1,3 +1,3 @@
 const istp = {
-    "Darci Peoples 💛": 2021,
+    "Darci Peoples 💛": "2021",
 };
