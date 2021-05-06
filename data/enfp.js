@@ -5,4 +5,5 @@ const enfp = {
     "Drshika Asher": "2024",
     "Ananya Cleetus 🤡": "2021",
     "Emily Laughead 🌼": "2022",
+    "Harsh Deep 🥰": "2022"
 };
