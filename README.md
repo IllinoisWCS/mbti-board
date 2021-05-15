@@ -38,4 +38,4 @@ At the top of the main page of your repository, you should see a gray banner tha
 
 If you see any bugs or have any features you would like to request, please [file an issue via Github](https://github.com/IllinoisWCS/mbti-board/issues). Also, if you are interested in working on any of the issues on the list, please comment on the issue and we will assign it to you! 
 
-Instructions last updated: 4/2/2021
+Instructions last updated: 5/15/2021
