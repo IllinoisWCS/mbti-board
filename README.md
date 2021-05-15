@@ -2,7 +2,7 @@
 
 Check the board out live on [our website](http://wcs.illinois.edu/mbti-board/instructions.html)!
 
-See the instructions below or [the instructions on our website](http://wcs.illinois.edu/mbti-board/instructions.html) for a guide on how to add your name to the board.
+See the instructions below or [the instructions on our website](http://wcs.illinois.edu/mbti-board/instructions.html) for a guide on how to add your name to the board. If you would prefer to NOT make a PR to the repo, please fill out the Google Form [at this link](https://forms.gle/hNwuG2Ejs9iXqV6F6).
 
 ## Step 0: What to do if you have questions
 
